@@ -1,13 +1,9 @@
-# The Living Map of Bengaluru 🌆
-
-A personal data science project exploring:
-- 🌳 Green cover and tree density across wards
-- 🚌 BMTC accessibility for job-seekers and students
-- 🌧️ How rain impacts everyday life (commute, food delivery, etc.)
-
 # 🌱 The Living Map: Green Coverage in Bengaluru
 
 A personal data science project visualizing green spaces across BBMP wards in Bengaluru using geospatial analysis and machine learning concepts.
+- 🌳 Green cover and tree density across wards
+- 🚌 BMTC accessibility for job-seekers and students
+- 🌧️ How rain impacts everyday life (commute, food delivery, etc.)
 
 ---
 
@@ -30,8 +26,6 @@ This project aims to:
 - `Shapely` – Geometry handling
 
 ---
-
-- Future modules: Reinforcement Learning (for transit optimization)
 
 ## Roadmap
 - ✅ Module 1: Green Cover Analysis
